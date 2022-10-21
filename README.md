@@ -11,3 +11,7 @@
 3- Um cliente pode comprar mais de um pedido
 
 
+## Pedido
+1- Os pedidos são criados por cliente
+2- Um produto ou mais compoem o pedido
+3 - O pedido pode ser cancelado

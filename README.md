@@ -1,4 +1,4 @@
-# Projeto prático DIO Ciência de Dados, modelagem E-commerce
+# Projeto prático DIO - Ciência de Dados, modelagem E-commerce
 
 ## Produto
 1- Os produtos são vendidos por uma única plataforma online.

@@ -13,6 +13,6 @@
 ## Pedido
 1- Os pedidos são criados por cliente
 2- Um produto ou mais compoem o pedido
-3 - O pedido pode ser cancelado
+3 - O pedido pode ser cancelad
 
 
